@@ -1,0 +1,8 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\bin\Debug\frm.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\bin\Debug\frm.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\bin\Debug\frm.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\obj\Debug\frm.Form1.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\obj\Debug\frm.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\obj\Debug\frm.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\obj\Debug\frm.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\frm\obj\Debug\frm.pdb

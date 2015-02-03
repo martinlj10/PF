@@ -1,0 +1,15 @@
+c:\users\martin\documents\visual studio 2013\Projects\SGRespuestos\FrmCierreVenta\bin\Debug\FrmCierreVenta.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\bin\Debug\FrmCierreVenta.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\bin\Debug\FrmCierreVenta.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.Form1.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.frmDevolucion.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.frmNewVenta.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.frmNuevoPedido.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.frmReserva.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.frmPpal.resources
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.frmEnConstruccion.resources

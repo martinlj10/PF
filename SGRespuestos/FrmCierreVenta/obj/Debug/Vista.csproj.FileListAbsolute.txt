@@ -1,0 +1,3 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\bin\Debug\FrmCierreVenta.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\SGRespuestos\FrmCierreVenta\obj\Debug\FrmCierreVenta.pdb
